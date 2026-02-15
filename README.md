@@ -94,3 +94,7 @@ My name is <strong>Tripti Sharma</strong> and I'm a <strong>Java Backend Develop
 <p align="left">
 ⭐ Focused on backend development and continuous learning.
 </p>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Triptisharma1234/Triptisharma1234/output/github-contribution-grid-snake.svg" />
