@@ -11,7 +11,7 @@ My name is <strong>Tripti Sharma</strong> and I'm a <strong>Java Backend Develop
 <p align="left">
 ✨ Creating bugs since my first Java program <br>
 📚 Currently strengthening Java, Spring Boot, backend development, and core CS concepts <br>
-🎯 Goals: Become a strong backend engineer and crack internships / placements <br>
+🎯 Goals: Become a strong backend engineer <br>
 🎲 Fun fact: I enjoy debugging more than writing fresh code
 </p>
 
